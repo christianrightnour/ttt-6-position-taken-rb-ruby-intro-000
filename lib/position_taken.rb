@@ -10,4 +10,5 @@ display_board
 
 def position_taken?(board, index)
   board[0] == "X" || "O"
+  
 end
