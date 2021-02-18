@@ -8,6 +8,6 @@ end
 
 def position_taken?(board, index)
 board == " " or ""
-if board 
+if board
 
 end
