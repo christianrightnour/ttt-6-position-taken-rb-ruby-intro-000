@@ -10,5 +10,5 @@ display_board
 
 def position_taken?(board, index)
   board[0] == "X" || "O"
-  board[0] == " "||""
+  board[0] == " " || ""
 end
