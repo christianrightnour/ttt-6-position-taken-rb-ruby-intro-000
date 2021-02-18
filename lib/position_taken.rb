@@ -9,6 +9,5 @@ end
 display_board
 
 def position_taken?(board, index)
-  return true if index == "X" || "O"
-  return false if index != "X" || "O"
+  return false if index == "X" || "O"
 end
