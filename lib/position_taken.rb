@@ -9,6 +9,6 @@ end
 display_board
 
 def position_taken?(board, index)
-  return false if board[0] != "X" || "O"
-  return true if board[]
+  return false if board[" ", " ", " ", " ", " ", " ", " ", " ", " "] != "X" || "O"
+  return true if board[" ", " ", " ", " ", " ", " ", " ", " ", " "] == "X" || "O"
 end
