@@ -8,4 +8,6 @@ end
 
 def position_taken?(board, index)
 board == " "
+if board == " " do move
+else puts "postion is taken, please select a new space."
 end
