@@ -9,6 +9,6 @@ end
 display_board
 
 def position_taken?(board, index)
-board.include?(" ")
   return true if board[index] == "X" || "O"
+else return false
 end
