@@ -9,7 +9,7 @@ end
 display_board
 
 def position_taken?(board, index)
-  if board == " " is false
+  if [0] == " " is false
     move
   else board != " " is true
 end
